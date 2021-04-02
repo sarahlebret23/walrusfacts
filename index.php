@@ -46,7 +46,18 @@ $input = array(
   "During the winter, blubber may account for one-third of a walrus's total body mass.", 
   "A walrus has about 400 to 700 vibrissae on its snout.", 
   "Walruses may take in mouthfuls of water and squirt powerful jets at the sea floor, excavating burrowing invertebrates.",
-  "Male walruses have a number of vocalizations, including bellowing and clacking to signal their desire for mating, give warnings or make other needs known in the wild." 
+  "Male walruses have a number of vocalizations, including bellowing and clacking to signal their desire for mating, give warnings or make other needs known in the wild.",
+  "A walrus is a pinniped. A pinniped is an aquatic carnivorous mammal with all four limbs modified into flippers.",
+  "Most scientists recognize two subspecies: the Pacific (Odobenus rosmarus divergent) and Atlantic (Odobenus rosmarus rosmarus) walruses.",
+  "The Pacific walrus is larger, has longer tusks and a wider skull.",
+  "The name walrus was originated with the Danish word hvalros, meaning “sea horse” or “sea cow”.",
+  "Walruses are nicknamed 'tooth walker' since they use their tusks to 'walk' by hauling themselves ashore and to move around land.",
+  "Walruses’ scientific name (Odobenus) translates from Latin into 'tooth walking sea horse'.",
+  "Their blubber stores energy, insulates heat and increases buoyancy.",
+  "There is one documented case in Spitzbergen (Svalbard) where walruses capsized a boat killing all aboard.",
+  "While on land, it is not uncommon for a walrus to sleep for an uninterrupted 19 sold hours.",
+  "With declining ice, commutes to shore can be more than 100 miles. Often, young calves do not survive the full journey.", 
+  "Walrus hunting is prohibited in Svalbard. Svalbard is one of the best places in the world to see walruses."
 );
 
 $rand_keys = array_rand($input, 2);
