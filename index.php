@@ -45,7 +45,8 @@ $input = array(
   "A thick layer of blubber insulates the walrus. Blubber may be up to 15 cm thick.", 
   "During the winter, blubber may account for one-third of a walrus's total body mass.", 
   "A walrus has about 400 to 700 vibrissae on its snout.", 
-  "Walruses may take in mouthfuls of water and squirt powerful jets at the sea floor, excavating burrowing invertebrates." 
+  "Walruses may take in mouthfuls of water and squirt powerful jets at the sea floor, excavating burrowing invertebrates.",
+  "Male walruses have a number of vocalizations, including bellowing and clacking to signal their desire for mating, give warnings or make other needs known in the wild." 
 );
 
 $rand_keys = array_rand($input, 2);
